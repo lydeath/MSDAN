@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="59133a11-7fb2-486d-9f51-78702244c2d0" name="frozen">
+        <fileTransfer rootFolder="/home/stu3" accessType="SFTP" host="202.195.229.181" port="2220" sshConfigId="28877f8b-92f3-476a-9657-6767dd722dac" sshConfig="stu3@202.195.229.181:2220 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
